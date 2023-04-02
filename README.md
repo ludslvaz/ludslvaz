@@ -1,6 +1,12 @@
-Olá :)
+
+  # Hello World! 👋 
+  
+<div  align="center">
+  Heey! Welcome to my github!! <br> I'm Lud, and i'm learn programming so my projects are a little simple for now. 👩‍💻
+</div>
 
 <div align="center">
+  <br>
   <a href="https://github.com/ludslvaz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ludslvaz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludslvaz&layout=compact&langs_count=7&theme=radical"/>
